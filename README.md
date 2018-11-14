@@ -1,1 +1,1 @@
-# practice-swift
+# Swift Practice
